@@ -148,10 +148,7 @@ function App() {
           className="w-full rounded-xl bg-gradient-to-r from-indigo-600 to-violet-600 py-4 font-bold text-white shadow-lg shadow-indigo-900/30 transition hover:from-indigo-500 hover:to-violet-500 active:scale-[0.98]"
         >
           Generate New Password
-          hello
         </button>
-
-       
       </div>
     </div>
   );
