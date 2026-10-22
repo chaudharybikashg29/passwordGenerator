@@ -40,10 +40,7 @@ function App() {
       <div className="w-full max-w-lg rounded-3xl border border-white/30 bg-white/5 p-6 shadow-2xl backdrop-blur-xl sm:p-8">
         {/* Heading */}
         <div className="mb-8 text-center">
-          <div className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-3xl bg-indigo-500/20 text-3xl">
-            🔐
-          </div>
-
+          
           <h1 className="text-3xl font-extrabold tracking-tight text-white sm:text-4xl">
             Password <span className="text-indigo-400">Generator</span>
           </h1>
